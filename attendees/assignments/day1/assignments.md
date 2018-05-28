@@ -24,7 +24,7 @@ Assignment1:
 
 Assignment2: 
 * Create a account on github.com.
-* Fork [ot-training/jenkins](https://github.com/ot-training/git.git) repo into your account.
+* Fork [ot-training/git](https://github.com/ot-training/git.git) repo into your account.
 * Clone your repo into your machine.
 
 Assignment3: 
