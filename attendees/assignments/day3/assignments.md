@@ -14,8 +14,8 @@ Assignment2:
  
 Assignment3: 
 * Create a test repo in your github account, write some demo commits. 
-* Add this test repo as submodule inside your jenkins repo.
-* Clone jenkins repo with submodule. 
+* Add this test repo as submodule inside your git repo.
+* Clone git repo with submodule. 
 
 
 Assignment4: 
